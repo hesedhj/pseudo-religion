@@ -26,4 +26,4 @@
 
 ---
 
-본 readm.md를 수정하시길 원하시면, git clone 명령어를 이용해서, clone하시고, push를 하셔도 되고 pull request를 하셔도 되고 원하시는 방법을 쓰시면 될 것 같습니다.  
+본 readme.md를 수정하시길 원하시면, git clone 명령어를 이용해서, clone하시고, push를 하셔도 되고 pull request를 하셔도 되고 원하시는 방법을 쓰시면 될 것 같습니다.  
